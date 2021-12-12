@@ -45,7 +45,7 @@ Todo ello generando una sola entidad homogénea y espectacular que dió como res
 
 ## Re-descubriendo la hibridación: SolidLight
 
-SolidLight es un nuevo **sistema holográfico** desarrollado por la empresa Light Field Lab. Todos recordamos cuando R2D2 proyecta un holograma de Leia en la película Star Wars, o los paneles holográficos de la película Minority Report, y pensar que sería increíble que eso fuera posible. Pues bien, con SolidLight esa posiblidad se ha convertido en una realidad.
+SolidLight es un nuevo **sistema holográfico** desarrollado por la empresa Light Field Lab. Todos recordamos cuando R2D2 proyecta un holograma de Leia en la película Star Wars, o los paneles holográficos de la película Minority Report, y pensar que sería increíble que eso fuera posible. Pues bien, con SolidLight esa posibilidad se ha convertido en una realidad.
 
 Como dicen en su web:
 
